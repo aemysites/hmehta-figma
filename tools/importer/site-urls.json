@@ -100,12 +100,6 @@
       "id": "b033b3c3c3722f8fab485f721ad75bfad9889665"
     },
     {
-      "url": "https://fortstreet-p.schools.nsw.gov.au/content/dam/doe/sws/schools/f/fortstreet-p/download-box/PersonalReadingLog_2022.pdf",
-      "source": "SITEMAPS",
-      "targetPath": "/content/dam/doe/sws/schools/f/fortstreet-p/download-box/personalreadinglog-2022-pdf",
-      "id": "e063f2491c9e25bac60931c8b4edb40220106cf0"
-    },
-    {
       "url": "https://fortstreet-p.schools.nsw.gov.au/events.html",
       "source": "SITEMAPS",
       "targetPath": "/events",
