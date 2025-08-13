@@ -1,0 +1,376 @@
+{
+  "templates": [
+    {
+      "name": "Gallery Listing Template",
+      "cluster": 1,
+      "pages": [
+        {
+          "url": "https://fortstreet-p.schools.nsw.gov.au/news/2024.html",
+          "uuid": "3ccde4556c9b4118dfd26ed6fe438b1651759ba3"
+        },
+        {
+          "url": "https://fortstreet-p.schools.nsw.gov.au/news/2023/6.html",
+          "uuid": "e0186913b7863bf3b3f06c22d73ae3a60f7f08a1"
+        },
+        {
+          "url": "https://fortstreet-p.schools.nsw.gov.au/news/2023.html",
+          "uuid": "db97d5d0df3616db07a3aa7b9ca6d167b3618846"
+        },
+        {
+          "url": "https://fortstreet-p.schools.nsw.gov.au/news/2024/2.html",
+          "uuid": "41dc3c5790bc4ea6335cf9aa6105476b97fc01fa"
+        },
+        {
+          "url": "https://fortstreet-p.schools.nsw.gov.au/news/2023/9.html",
+          "uuid": "23b1046d6502815438d251366cfc90f1ebd5ceb8"
+        },
+        {
+          "url": "https://fortstreet-p.schools.nsw.gov.au/news/2023/7.html",
+          "uuid": "27df7a3268848dab624fa76e5ca62b1b01fb037b"
+        },
+        {
+          "url": "https://fortstreet-p.schools.nsw.gov.au/news/2023/10.html",
+          "uuid": "da24e488bba4574f6d7b648bf60f3f5fcd3418ab"
+        },
+        {
+          "url": "https://fortstreet-p.schools.nsw.gov.au/news/2023/5.html",
+          "uuid": "f890f858a3d8347c305a44ec3fbc0fd7b74c9f06"
+        },
+        {
+          "url": "https://fortstreet-p.schools.nsw.gov.au/news/2023/8.html",
+          "uuid": "059ff7c6eb8fe6dbba214181e83b8a43e2400836"
+        },
+        {
+          "url": "https://fortstreet-p.schools.nsw.gov.au/news/2024/10.html",
+          "uuid": "3260b40cab3b50dba7d14eae1f313788ea4caa65"
+        },
+        {
+          "url": "https://fortstreet-p.schools.nsw.gov.au/news/2024/4.html",
+          "uuid": "3303e012d024912cc44d3047f1fbb060cc815314"
+        },
+        {
+          "url": "https://fortstreet-p.schools.nsw.gov.au/news/2024/5.html",
+          "uuid": "802277890f4cffa1ee42533d8446895fe008b784"
+        },
+        {
+          "url": "https://fortstreet-p.schools.nsw.gov.au/news/2024/7.html",
+          "uuid": "eb0310169984c832e0db6c580fb63072e3d70a63"
+        },
+        {
+          "url": "https://fortstreet-p.schools.nsw.gov.au/news/2024/8.html",
+          "uuid": "f22aff029bfbcc681fab4a6d1be8f6ca2ddb41e4"
+        },
+        {
+          "url": "https://fortstreet-p.schools.nsw.gov.au/news/2023/12.html",
+          "uuid": "6dc85d45f8b6d53c54ec7ecbac10ee93e68da545"
+        },
+        {
+          "url": "https://fortstreet-p.schools.nsw.gov.au/news/2023/11.html",
+          "uuid": "0f6c1e9de42921636d6252dccaf86ae59db37bc6"
+        },
+        {
+          "url": "https://fortstreet-p.schools.nsw.gov.au/news/2025/3.html",
+          "uuid": "e9d775f2c9738cc2b3d9af86336e9b26f47165e7"
+        },
+        {
+          "url": "https://fortstreet-p.schools.nsw.gov.au/news/2025.html",
+          "uuid": "da713a4adac4ea6c4907449254137055e0720795"
+        }
+      ]
+    },
+    {
+      "name": "Multi-Purpose Content Template",
+      "cluster": 2,
+      "pages": [
+        {
+          "url": "https://fortstreet-p.schools.nsw.gov.au/about-our-school/our-proud-history.html",
+          "uuid": "72fc229d2b845c5653f2c095f9339721a373e658"
+        },
+        {
+          "url": "https://fortstreet-p.schools.nsw.gov.au/about-our-school/welcome-to-kindergarten.html",
+          "uuid": "9fb95e22fb9c9ef5fe505fd30edc5b2732b02001"
+        },
+        {
+          "url": "https://fortstreet-p.schools.nsw.gov.au/about-our-school/location-and-transport.html",
+          "uuid": "8cfbdf001fc744043bc3d81761ad67f9030bf793"
+        },
+        {
+          "url": "https://fortstreet-p.schools.nsw.gov.au/about-our-school/enrolment.html",
+          "uuid": "aa6921b83ccbecef5cc09cadbf01fc406754717a"
+        },
+        {
+          "url": "https://fortstreet-p.schools.nsw.gov.au/about-our-school/classes.html",
+          "uuid": "d9037fa3c2a26622c0af5524c3a34da66becc2b3"
+        },
+        {
+          "url": "https://fortstreet-p.schools.nsw.gov.au/learning-at-our-school/extracurricularactivities.html",
+          "uuid": "8cbe0947e30f35c82a734245894cf194c714cb99"
+        },
+        {
+          "url": "https://fortstreet-p.schools.nsw.gov.au/about-our-school/vision-and-values.html",
+          "uuid": "92cc446377ea32afd1ab191655f93f723946adfa"
+        },
+        {
+          "url": "https://fortstreet-p.schools.nsw.gov.au/learning-at-our-school/creative-arts.html",
+          "uuid": "42932180b4bc860c2bfae4846edf20c15d096fda"
+        },
+        {
+          "url": "https://fortstreet-p.schools.nsw.gov.au/learning-at-our-school/library.html",
+          "uuid": "7c5cadffe62cd860236b67d0b6504de56288dad5"
+        },
+        {
+          "url": "https://fortstreet-p.schools.nsw.gov.au/learning-at-our-school/personal-development-health-and-physical-education.html",
+          "uuid": "e6616227e1628aec1f210e937047de74f7dc4a28"
+        },
+        {
+          "url": "https://fortstreet-p.schools.nsw.gov.au/about-our-school/financial-contributions-and-assistance.html",
+          "uuid": "7aa976abdafd46f498b567f8a27068b54ad622f8"
+        },
+        {
+          "url": "https://fortstreet-p.schools.nsw.gov.au/learning-at-our-school/mathematics.html",
+          "uuid": "464843f79d7fee4173ed5ff77886301f8d5c7670"
+        },
+        {
+          "url": "https://fortstreet-p.schools.nsw.gov.au/about-our-school/parent-testimonials.html",
+          "uuid": "b1e844827adab55e0ba421a899a63fc6e14e7feb"
+        },
+        {
+          "url": "https://fortstreet-p.schools.nsw.gov.au/about-our-school/payment-sentral.html",
+          "uuid": "ddcf8c3d21a58f639599487b466f2e79daff04d2"
+        },
+        {
+          "url": "https://fortstreet-p.schools.nsw.gov.au/about-our-school/our-staff.html",
+          "uuid": "4f15120ff3ecfbe8cba35bdcb7b4f19dc70dc98c"
+        },
+        {
+          "url": "https://fortstreet-p.schools.nsw.gov.au/learning-at-our-school/science.html",
+          "uuid": "a19e6fc725631786934f80c33ce1ca2e6e2bd2cc"
+        },
+        {
+          "url": "https://fortstreet-p.schools.nsw.gov.au/learning-at-our-school/human-society-and-its-environment.html",
+          "uuid": "b6016a7515e35f46f79bca90f46a6265854f7e43"
+        },
+        {
+          "url": "https://fortstreet-p.schools.nsw.gov.au/about-our-school/school-planning-and-reporting.html",
+          "uuid": "361c964f9faaf84aecab606b0f5ac4d88c5fd09a"
+        },
+        {
+          "url": "https://fortstreet-p.schools.nsw.gov.au/learning-at-our-school/explicit-learning.html",
+          "uuid": "1f421c73e3e8c37187f5d043fd80edf4324f6628"
+        },
+        {
+          "url": "https://fortstreet-p.schools.nsw.gov.au/learning-at-our-school/oc-classes---selective-schools.html",
+          "uuid": "91454197c71b76be6c00f86936fc22f3a4f6e1f9"
+        },
+        {
+          "url": "https://fortstreet-p.schools.nsw.gov.au/learning-at-our-school/english.html",
+          "uuid": "5ca85fc0e0225de1dd43011fa31dfde99fc12ee7"
+        },
+        {
+          "url": "https://fortstreet-p.schools.nsw.gov.au/about-our-school/rules-and-policies.html",
+          "uuid": "a424ef08a86cb2e1878a9e460f2f566fd10fd09b"
+        },
+        {
+          "url": "https://fortstreet-p.schools.nsw.gov.au/learning-at-our-school/scholarships-and-awards.html",
+          "uuid": "df0c50192d824b25713267c94c4f240d45e8026f"
+        },
+        {
+          "url": "https://fortstreet-p.schools.nsw.gov.au/learning-at-our-school/religion-and-ethics.html",
+          "uuid": "9e15b48885566c33b9210566d5a9aaf737c109d9"
+        }
+      ]
+    },
+    {
+      "name": "'Form and Filter Dashboard'",
+      "cluster": 3,
+      "pages": [
+        {
+          "url": "https://fortstreet-p.schools.nsw.gov.au/news.html",
+          "uuid": "421293bb08a17f3b84f262e934c7bcba282ca115"
+        },
+        {
+          "url": "https://fortstreet-p.schools.nsw.gov.au/events.html",
+          "uuid": "f0f377dff8dbbc1d0e64445df4b4a5ec220c72be"
+        },
+        {
+          "url": "https://fortstreet-p.schools.nsw.gov.au/gallery.html",
+          "uuid": "17c5947fa485fbba484c466dfbbd6f67b9fa6a18"
+        },
+        {
+          "url": "https://fortstreet-p.schools.nsw.gov.au/newsletter.html",
+          "uuid": "bd8ed9fa8c25a978192ba5140e1fd367040e2107"
+        },
+        {
+          "url": "https://fortstreet-p.schools.nsw.gov.au/for-parents.html",
+          "uuid": "c0c02f56a6e0110ba17a957b6f25f7eb5acb8dd4"
+        },
+        {
+          "url": "https://fortstreet-p.schools.nsw.gov.au/learning-at-our-school.html",
+          "uuid": "35819c4f14eb96bba0c4b22f1999f56a7214017a"
+        },
+        {
+          "url": "https://fortstreet-p.schools.nsw.gov.au/supporting-our-students.html",
+          "uuid": "0927312afc8479d9791544d07e5c2ef76f3c3a23"
+        },
+        {
+          "url": "https://fortstreet-p.schools.nsw.gov.au/about-our-school.html",
+          "uuid": "66e090804caa8be488555aad22a8406e5a0731fd"
+        }
+      ]
+    },
+    {
+      "name": "E-commerce Product Listing",
+      "cluster": 4,
+      "pages": [
+        {
+          "url": "https://fortstreet-p.schools.nsw.gov.au/supporting-our-students/student-health-and-safety.html",
+          "uuid": "6b98acd83a1819592494ca9a3fee9a1cc181b9d1"
+        },
+        {
+          "url": "https://fortstreet-p.schools.nsw.gov.au/supporting-our-students/student-leadership.html",
+          "uuid": "2bced2fba745127c87ee7517c1bb48d3a419560a"
+        },
+        {
+          "url": "https://fortstreet-p.schools.nsw.gov.au/supporting-our-students/parents--carers-and-the-community.html",
+          "uuid": "f3c80d8e59089730aba43ca9d45147bb92f12b19"
+        },
+        {
+          "url": "https://fortstreet-p.schools.nsw.gov.au/supporting-our-students/help-with-homework.html",
+          "uuid": "26d731a64ee7e0b1a4605f9f59718ff7ca771c63"
+        },
+        {
+          "url": "https://fortstreet-p.schools.nsw.gov.au/supporting-our-students/inclusive-learning-support.html",
+          "uuid": "60df78498be436e29bbacce7b35d27fe54729cfb"
+        },
+        {
+          "url": "https://fortstreet-p.schools.nsw.gov.au/supporting-our-students/student-wellbeing.html",
+          "uuid": "1f15564b555134553b0c3e7fff63039ae02a1639"
+        }
+      ]
+    },
+    {
+      "name": "'Search Results Page'",
+      "cluster": 5,
+      "pages": [
+        {
+          "url": "https://fortstreet-p.schools.nsw.gov.au/supporting-our-students/parents--carers-and-the-community/primary-school-routines.html",
+          "uuid": "cd3f84d3905a13eb1f497417ef6dc00d3f03ea32"
+        }
+      ]
+    },
+    {
+      "name": "'Dashboard Template'",
+      "cluster": 6,
+      "pages": [
+        {
+          "url": "https://fortstreet-p.schools.nsw.gov.au/for-parents/new-student-information.html",
+          "uuid": "689f7573547e2e048c9c3f71eeffd885d5757083"
+        },
+        {
+          "url": "https://fortstreet-p.schools.nsw.gov.au/for-parents/pandc.html",
+          "uuid": "b000c2d33901db2bc95bef13ab6b4418db04cc82"
+        },
+        {
+          "url": "https://fortstreet-p.schools.nsw.gov.au/for-parents/sentral-for-parents-app.html",
+          "uuid": "b638f6af81d0e3ec79beb1888bcb73eb123d353c"
+        },
+        {
+          "url": "https://fortstreet-p.schools.nsw.gov.au/for-parents/volunteering-at-the-school.html",
+          "uuid": "793c9276d9b7d2677916df187ba2af457cdda005"
+        },
+        {
+          "url": "https://fortstreet-p.schools.nsw.gov.au/for-parents/translated-documents.html",
+          "uuid": "31c09e0fa7c64e24e5041a87a594bf3d073345ac"
+        },
+        {
+          "url": "https://fortstreet-p.schools.nsw.gov.au/for-parents/outofhourscare.html",
+          "uuid": "32c5ccde712744d8d7183a45eec3ea12e11f9215"
+        },
+        {
+          "url": "https://fortstreet-p.schools.nsw.gov.au/for-parents/uniforms---canteen.html",
+          "uuid": "a7da859f8b4355ea6ed4359d806b8cf3854bab66"
+        },
+        {
+          "url": "https://fortstreet-p.schools.nsw.gov.au/for-parents/travel-access-guide--transport-.html",
+          "uuid": "a533191dc54b571b90975c002bcdd8c7ba738155"
+        },
+        {
+          "url": "https://fortstreet-p.schools.nsw.gov.au/for-parents/fort-street-handy-hints.html",
+          "uuid": "a2c5b378386629845a1dc61351aedfc965a25f10"
+        },
+        {
+          "url": "https://fortstreet-p.schools.nsw.gov.au/for-parents/payments.html",
+          "uuid": "0036d5d2df31d5a790316ee23a3e877c2780b770"
+        },
+        {
+          "url": "https://fortstreet-p.schools.nsw.gov.au/for-parents/wellbeing.html",
+          "uuid": "13412f9e14dd5fb927b013e9e4e9f5c8d8741bc4"
+        }
+      ]
+    },
+    {
+      "name": "'Documentation Page'",
+      "cluster": 7,
+      "pages": [
+        {
+          "url": "https://fortstreet-p.schools.nsw.gov.au/supporting-our-students/student-health-and-safety/school-counselling-service.html",
+          "uuid": "be710997cf0572971d1562eafe52ab56c8ecaeb6"
+        }
+      ]
+    },
+    {
+      "name": "School Homepage Template",
+      "cluster": 8,
+      "pages": [
+        {
+          "url": "https://fortstreet-p.schools.nsw.gov.au/",
+          "uuid": "ca5e72d9d44849e31bae1f56e1bda79706e969a5"
+        }
+      ]
+    },
+    {
+      "name": "'Dashboard Template'",
+      "cluster": 9,
+      "pages": [
+        {
+          "url": "https://fortstreet-p.schools.nsw.gov.au/supporting-our-students/help-with-homework/homework-tips-for-primary-school/helping-with-maths-and-numeracy.html",
+          "uuid": "36fdd81bc708085f572f4754fd8d824dc09c8348"
+        },
+        {
+          "url": "https://fortstreet-p.schools.nsw.gov.au/supporting-our-students/help-with-homework/homework-tips-for-primary-school/helping-with-english-and-literacy.html",
+          "uuid": "2da94e72621a1171f90ba9d7cb26845c50912afa"
+        }
+      ]
+    },
+    {
+      "name": "'Directory Listing'",
+      "cluster": 10,
+      "pages": [
+        {
+          "url": "https://fortstreet-p.schools.nsw.gov.au/about-our-school/welcome-to-kindergarten/kindergarten-information.html",
+          "uuid": "9bc5679410262588b1220cbc18477421c15e8742"
+        }
+      ]
+    },
+    {
+      "name": "'Dashboard Template'",
+      "cluster": 11,
+      "pages": [
+        {
+          "url": "https://fortstreet-p.schools.nsw.gov.au/supporting-our-students/help-with-homework/homework-tips-for-primary-school.html",
+          "uuid": "bb7e88e13ac54b732aaf97ae2e6c086354466ff6"
+        }
+      ]
+    },
+    {
+      "name": "'Dashboard Page'",
+      "cluster": 12,
+      "pages": [
+        {
+          "url": "https://fortstreet-p.schools.nsw.gov.au/contact-us.html",
+          "uuid": "b033b3c3c3722f8fab485f721ad75bfad9889665"
+        }
+      ]
+    }
+  ]
+}
