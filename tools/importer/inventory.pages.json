@@ -1,0 +1,416 @@
+{
+  "templates": [
+    {
+      "name": "'Content Listing Page'",
+      "cluster": 1,
+      "pages": [
+        {
+          "url": "https://www.westernsydney.edu.au/home/events/stata_short_course/rhc_button",
+          "uuid": "e493f06bb7e5b8fc786d2f016824121868bc6b9d"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/research_ethics_and_integrity/animal/quicklinks",
+          "uuid": "531229ab90e877a36409900a6099db5a5e475397"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/events/1_rhc_links3",
+          "uuid": "4d9f649fcdd947cd4c2c8254b396f0ac74ef9a0b"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/research_ethics_and_integrity/animal/rms_buttons",
+          "uuid": "15eb051b2c8e34ea9f98c01500623b8d2a2a5cd8"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/research_ethics_and_integrity/declaration_process/rhc_buttons",
+          "uuid": "950950b198d67087e5dc56880b98e32e01d2d7de"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/researchers/foreign_arrangements_scheme/rhc_buttons",
+          "uuid": "41b168820264250820f65d73f5125b330ed25a1a"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/researchers/preparing_a_grant_application/rhc_links",
+          "uuid": "a8cf87bdbd1650d000db0c585c559339b7da40fc"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/researchers/research_project_risk_and_compliance/rhc_buttons",
+          "uuid": "2b5e03403a66860a882ebdaed164c8399944e9e1"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/researchers/researcher_development/1_rhc_links",
+          "uuid": "0ea833027ba3c993dd2043d66c5ebe31c910a84c"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/researchers/researcher_development/researcher_development_awards2/rhc_links",
+          "uuid": "c4175d68c4cc244e9726fb43721caf5c0486dc21"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/research_ethics_and_integrity/animal/related",
+          "uuid": "4f6c17be9393ab7d0e4c89a52975ef367111a986"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/home/rhc_boxes/contact_us2",
+          "uuid": "f158368061221560284387b7e13cfb464e068f5e"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/research_ethics_and_integrity/biosafety",
+          "uuid": "d1f03a365a29d665b69719a9568e682f3d8f7759"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/research_ethics_and_integrity/human_ethics",
+          "uuid": "7ce5c1a47acca34ff555b6f42828707c28793cd9"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/research_ethics_and_integrity/animal",
+          "uuid": "ec7f06073e2f7c7ccb4cad1cf057e504274e6ffa"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/research/research_concentrations",
+          "uuid": "4f64fb2f8b05f3c5b655f26ab7d59edc8584ad42"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/research",
+          "uuid": "a94f4e42f55c2478802304e50431ead05f11ea76"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/research/research_policies",
+          "uuid": "e291ee8a13b3b512c66037ae8865025ee65f0755"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/research/research_concentrations/cooperative_research_centres",
+          "uuid": "caff4b7f8a2b1cf855ca0cff6d25bdff434e08bf"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/researchers/funding_opportunities",
+          "uuid": "a0da2e4a3690281dec503a0e3b5d25c5233b3212"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/research/research_concentrations/related_links",
+          "uuid": "97f0fe403eaa96d90bb219aaf2e4e9c33aa591c7"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/research/other_places2",
+          "uuid": "665a4a8cd5f48d89ffffee9b148477f37a47fd1c"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/research/era",
+          "uuid": "7e9569560f5124fcc7620804051a0d9ab64297a0"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/research_services_business/intellectual_property",
+          "uuid": "fabe300d57ab01d0e32e50298cfb20b775f80658"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/research_impact",
+          "uuid": "5c3845161b1179ea8b20d5738cabfdd4d0b38bb2"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/research_ethics_and_integrity/defence_export_controls",
+          "uuid": "6748c603b17f715523fd5974425c3756e88872d9"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/rms",
+          "uuid": "874a1baf9598e88c94716cb22edeaa0ede87c32f"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/research_ethics_and_integrity/human_ethics/apply_for_human_research_ethics_review",
+          "uuid": "861b7e7f01ab10a8aa4658444b70ab0afc92477b"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/researchers/researcher_development/researcher_development_awards",
+          "uuid": "1f5fe188b87dfc53caa29ff1fa2d33bd921e0e1f"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/researchers/preparing_a_grant_application/tips_for_early_career_researchers",
+          "uuid": "a6f288ae3cc2d19b1564e0b247b648fe18f749e8"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/research_ethics_and_integrity",
+          "uuid": "2a4858dbd59e278558c20f21bf7ca3cc94b2adb5"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/research_ethics_and_integrity/integrity_in_research",
+          "uuid": "9bcc874f213e04e8a9f64b2867f37d114ed60753"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/research_ethics_and_integrity/human_ethics/clinical_trial_applications",
+          "uuid": "f6f85d5a181c222f00f3a328244182f16a3ba4bd"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/research_ethics_and_integrity/human_ethics/data_reuse_and_sharing",
+          "uuid": "3bdbb1acee158869715707dbb4e4d5deea22eddc"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/researchers/preparing_a_grant_application",
+          "uuid": "e16a36aba50b34d244235f169cca3796b29cc6db"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/research_ethics_and_integrity/human_ethics/useful_resources",
+          "uuid": "55be1ab282c99ad2d739e6778fd6cd660dd7b999"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/researchers/research_project_risk_and_compliance",
+          "uuid": "284c640a6268416efc8c0bb7ea65d9a930c3492c"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/research_ethics_and_integrity/declaration_process",
+          "uuid": "51c4203e4cb62b9ed844420bb416be344700ee40"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/research_ethics_and_integrity/animal/related_links",
+          "uuid": "35947911cf9b6e48fa0fccdae7e9e56aa8158250"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/research_ethics_and_integrity/animal/related_links3",
+          "uuid": "bb7d917990815e810be152a47f3725378df72885"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/research_ethics_and_integrity/animal/related_links2",
+          "uuid": "7f9ea1c8199a2c752270387a42673e72bf76f7d8"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/research_ethics_and_integrity/biosafety/related_links2",
+          "uuid": "7b75d3655768c2d2bb43dedcb9ef0a534f781537"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/research_ethics_and_integrity/human_ethics/related_links2",
+          "uuid": "59e91683d213f97885166274aae955819e1b124a"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/research_ethics_and_integrity/related_links",
+          "uuid": "7a98746b8d1b3be076a0a466ca73d41107d7f98e"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/research_impact/related_links",
+          "uuid": "1f441e82cc442225c18604ce9faea511379b7cf0"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/researchers/funding_opportunities/grant_application_development_resources",
+          "uuid": "39451e0fa4fcf191438bbec1e6fbbfc94fcfd5b8"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/researchers/preparing_a_grant_application/budget_justification",
+          "uuid": "670bd1c25a24e9049ca31895854433a88605d0a8"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/researchers/foreign_arrangements_scheme/frequently_asked_questions",
+          "uuid": "a83b74fcd2d36a30d12cb25ffbbf15a943fec959"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/researchers/managing_research_grant",
+          "uuid": "b3019a7138ab8023a310f651775e4088fd73b985"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/research_ethics_and_integrity/human_ethics/recruitment_considerations",
+          "uuid": "9b98f423015f5abaa62dd5f038087e694b2d1967"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/research_services_business",
+          "uuid": "4284a45cd19f24e2ff1435f0531be310ecc0ca93"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/information_boxes/enquiry_links",
+          "uuid": "608247b9879789acbe377578de5d993a2b384ccf"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/rhc_boxes/contact_us",
+          "uuid": "152e6add438e9af619519752bd4a2cbb837f4a59"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/research_ethics_and_integrity/human_ethics/privacy_principles_and_research",
+          "uuid": "01611d8b9ef3e97d4b2b2f78a2d86fc1cfa507fb"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/rms/rethink_hdr_services",
+          "uuid": "6e911b78dc27860639f7a2ff5aca6870a11e7570"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/information_boxes/scholarships",
+          "uuid": "f18095858226c6387b67e3a176e94011afdaf87e"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/information_boxes/leadership_program",
+          "uuid": "1d1318e1b7b2d003d76292140870dca8af185619"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/rhc_boxes/contact_us2",
+          "uuid": "c3445d839554dfe17f17eca3c34635de8fab453c"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/researchers/researcher_development/nature_masterclasses_online",
+          "uuid": "300ed9bd69c4a1887ae071da26ad50be7b63467a"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/researchers/foreign_arrangements_scheme",
+          "uuid": "95e731c5f74ef765f11bd69f3250a44716012baf"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/research_ethics_and_integrity/sanctions_compliance",
+          "uuid": "23367d2eb28c8d2f1975139fabf92f1751ec7f64"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/researchers/funding_opportunities/australian_research_council_arc_research_funding",
+          "uuid": "20f10a5881b87a86849d8539e2d94c3379880378"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/researchers/funding_opportunities/national_health_and_medical_research_council_nhmrc_research_funding",
+          "uuid": "13764df2a05b87640d50c15417c75bd18790c4f4"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/researchers/preparing_a_grant_application/guide_to_writing_a_project_description",
+          "uuid": "dd11a065604f7e206c4364165ff57d9489b77d38"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/researchers/preparing_a_grant_application/track_record_statement",
+          "uuid": "cc14e872e28357292573d231d7d12c1d3f730e7f"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/research_ethics_and_integrity/human_ethics/clinical_trial_applications/related_links",
+          "uuid": "3d387b78d7febf756e64edbe15808bcbd238f338"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/research_ethics_and_integrity/human_ethics/data_reuse_and_sharing/related_links",
+          "uuid": "263da47645e61aa94b5f02027e0a78ef5dafbb73"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/research_ethics_and_integrity/human_ethics/privacy_principles_and_research/related_links",
+          "uuid": "4cc16d56fee4ecda247b67a76a6b77b8fb84a3a5"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/research_ethics_and_integrity/biosafety/related_links",
+          "uuid": "21f2f52a0258815faf1cbc478dc418a9e23e36f4"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/research_ethics_and_integrity/defence_export_controls/resources",
+          "uuid": "8c440e09c3170aec1b654a4f9722a603d09e3634"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/research_ethics_and_integrity/human_ethics/apply_for_human_research_ethics_review/contacts",
+          "uuid": "9b025475dccba1865e363cd2bf16b11445dc13e2"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/research_ethics_and_integrity/human_ethics/apply_for_human_research_ethics_review/related_links",
+          "uuid": "21640b4ade8acc94a803b9a9f5c064d246c47bd6"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/research_ethics_and_integrity/human_ethics/contacts",
+          "uuid": "9e2b79e203e2a1ebb76ff9c21fbfe031cb4cef87"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/research_ethics_and_integrity/human_ethics/participant_information_sheets_and_consent_forms",
+          "uuid": "a05c4e4b8e2681b93714f4e7ee166fd2937103c4"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/research_impact/resources",
+          "uuid": "16f3b5834ce7d860a1d818cdef339189161eb873"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/research_ethics_and_integrity/integrity_in_research/research_governance_committees",
+          "uuid": "14d1e97d5c241c37eade12ecadc909988d178eda"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/research_ethics_and_integrity/integrity_in_research/resources",
+          "uuid": "0afebe1ead693390e9170ba926e37c7dd4273bb1"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/research_ethics_and_integrity/reciprocal_external_approval",
+          "uuid": "90c0cabdbb1480ba92501b52049c84a023bcd871"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/research_ethics_and_integrity/resources",
+          "uuid": "a8533dd734e35ed2f25579b6f1b7b90ecbdae189"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/research_impact/other_places4",
+          "uuid": "ddc64fdee680c6e15d5c1130c7b6b4e9f91e106a"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/research_impact/resources2",
+          "uuid": "b91c49a574f16fbde5da79601434641bd0895e3a"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/research_services_business/intellectual_property/other_places",
+          "uuid": "8add3db0bb4387c13877a86ec3b849d2a9f98bc2"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/research_services_business/related_links",
+          "uuid": "adc10d1bb91402d37107dfca255db98777e50504"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/researchers/funding_opportunities/internal_research_grants",
+          "uuid": "8cf48ab62de93e622fe272b13ce9dfe7cecd274d"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/researchers/funding_opportunities/international_and_other_grants",
+          "uuid": "729ec67693ca705b05d54c42cc4ee5185fdc1d41"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/researchers/funding_opportunities/news",
+          "uuid": "58afa4f3631ca5c0fbbad2af2753733c0ad9f13c"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/researchers/funding_opportunities/related_links",
+          "uuid": "b92ba32b3aff5c63827a3fd527384ea23eedd998"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/researchers/other_places4",
+          "uuid": "84dfdc3f0c602d7d26eeee759dea324f2daffd41"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/researchers/preparing_a_grant_application/dest_definition_of_research",
+          "uuid": "cc68f0e78df9cbd35455d32ed6d45a2e560248cb"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/researchers/preparing_a_grant_application/developing_a_budget_for_your_research_application",
+          "uuid": "e16e7a0dbb89ef03f1472ddaef1710cbc23487c5"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/researchers/preparing_a_grant_application/related_links",
+          "uuid": "bebf40af09d1959deee95d7b5702c57b5ca97cf8"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/researchers/preparing_a_grant_application/research_codes",
+          "uuid": "87e72d713503cc151d89b81a608bbe39331fc796"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/researchers/preparing_a_grant_application/research_contracts",
+          "uuid": "80d0483b8380de1c3398c8b3d2da2f456662bd11"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/researchers/preparing_a_grant_application/resources",
+          "uuid": "d267002bb3acde428feaf11edf83cf91937d2c2f"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/researchers/research_project_risk_and_compliance/resources",
+          "uuid": "1e536c701375fbec8bf1b52762d16df7db67ff65"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/researchers/researcher_development/fullbright_program",
+          "uuid": "06ab29671613e9dc8dbac6df49ebc97c37a03885"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/rhc_boxes/courses2",
+          "uuid": "26012c1830f0495e00605490d8b6bba359913706"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/researchers/preparing_a_grant_application/research_and_consultancy_guidelines",
+          "uuid": "97816a154f3709cdb09b20ad21e945bed9ae3bd8"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/research/researchers",
+          "uuid": "98ac67c86cd745731dfad85e4805a1d1a594ef7d"
+        }
+      ]
+    },
+    {
+      "name": "'Portfolio Showcase'",
+      "cluster": 2,
+      "pages": [
+        {
+          "url": "https://www.westernsydney.edu.au/research",
+          "uuid": "14a0b86d018c7d0ea693d443bca7c931e1f121ba"
+        }
+      ]
+    }
+  ]
+}
