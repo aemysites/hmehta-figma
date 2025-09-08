@@ -15,8 +15,8 @@ import { spawn } from 'child_process';
 import path from 'path';
 import fs from 'fs';
 
-// Adobe IMS token endpoint for OAuth 2.0 authorization access token exchange
-const IMS_TOKEN_ENDPOINT = 'https://ims-na1.adobelogin.com/ims/token/v3';
+// Import the shared IMS token helper
+import { getAccessTokenWithFallback } from './ims-token-helper.js';
 
 /**
  * Get the org and site from the target URL.
@@ -40,47 +40,6 @@ function getOrgAndSiteFromTargetUrl(target) {
   } catch (error) {
     throw new Error(`Error parsing target URL: ${error.message}. Target url: ${target}`);
   }
-}
-
-/**
- * Exchange Adobe IMS credentials for an access token using OAuth 2.0 authorization code flow
- * @param {string} clientId - Adobe IMS client ID from the service account
- * @param {string} clientSecret - Adobe IMS client secret from the service account
- * @param {string} serviceToken - Adobe IMS authorization code (obtained from service account)
- * @returns {Promise<string>} Access token for DA Admin API authentication
- */
-export async function getAccessToken(clientId, clientSecret, serviceToken) {
-  core.info('Exchanging IMS credentials for access token...');
-
-  // Prepare form-encoded data (matching the working curl request)
-  const formParams = new URLSearchParams();
-  formParams.append('grant_type', 'authorization_code');
-  formParams.append('client_id', clientId);
-  formParams.append('client_secret', clientSecret);
-  formParams.append('code', serviceToken);
-
-  const response = await fetch(IMS_TOKEN_ENDPOINT, {
-    method: 'POST',
-    headers: {
-      'Content-Type': 'application/x-www-form-urlencoded',
-    },
-    body: formParams.toString(),
-  });
-
-  if (!response.ok) {
-    const errorText = await response.text();
-    core.warning(`IMS token exchange failed ${response.status}: ${errorText}`);
-    throw new Error(`Failed to exchange IMS credentials: ${response.status} ${errorText}`);
-  }
-
-  const tokenData = await response.json();
-
-  if (!tokenData.access_token) {
-    throw new Error('No access token received from IMS');
-  }
-
-  core.info('✅ Successfully obtained access token from IMS');
-  return tokenData.access_token;
 }
 
 /**
@@ -198,26 +157,11 @@ export async function run() {
     const contentPath = core.getInput('content_path');
 
     // aem-import-helper can skip assets if needed
-    const skipAssets = core.getInput('skip_assets') || false;
-
-    // DA IMS credentials for token exchange
-    let clientId = process.env.DA_CLIENT_ID;
-    let clientSecret = process.env.DA_CLIENT_SECRET;
-    let serviceToken = process.env.DA_SERVICE_TOKEN;
+    const skipAssets = core.getBooleanInput('skip_assets');
 
     try {
-      let accessToken = null;
-      // Conditionally exchange IMS credentials if all are present
-      if (clientId && clientSecret && serviceToken) {
-        // Trim whitespace from credentials
-        clientId = clientId.trim();
-        clientSecret = clientSecret.trim();
-        serviceToken = serviceToken.trim();
-
-        accessToken = await getAccessToken(clientId, clientSecret, serviceToken);
-      } else {
-        core.warning('DA credentials not set (DA_CLIENT_ID, DA_CLIENT_SECRET, DA_SERVICE_TOKEN). Proceeding without token.');
-      }
+      // Get access token with fallback logic
+      const accessToken = await getAccessTokenWithFallback();
 
       checkForRequiredContent(contentPath);
       const files = await uploadToDa(contentPath, target, accessToken, skipAssets);
