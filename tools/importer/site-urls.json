@@ -1,0 +1,1336 @@
+{
+  "originUrl": "https://education.nsw.gov.au",
+  "aborted": false,
+  "lastCrawled": "https://education.nsw.gov.au/",
+  "urls": [
+    {
+      "url": "https://education.nsw.gov.au/about-us",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us",
+      "id": "4f53c9f4d9414077c64bf2f49a3b6c34b170c3a5"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/campaigns-and-initiatives/175-years-of-public-education-in-nsw",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/campaigns-and-initiatives/175-years-of-public-education-in-nsw",
+      "id": "aaaec406211d47a6e6509e57096aa27393a50c11"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/careers-at-education",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/careers-at-education",
+      "id": "0592c217adcad3780d2f7315d643d6c8c60ef1e5"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/careers-at-education/employment-opportunities",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/careers-at-education/employment-opportunities",
+      "id": "23242501e7085f2e3a32a270780e12f6b189d553"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/careers-at-education/employment-opportunities/current-vacancies",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/careers-at-education/employment-opportunities/current-vacancies",
+      "id": "12b1588bbb39bca3dd6528c6cae5425e3b456144"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/careers-at-education/employment-opportunities/participate-on-a-selection-panel",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/careers-at-education/employment-opportunities/participate-on-a-selection-panel",
+      "id": "c84021d4d4e295ff85ed7aebe223501323e4dd5c"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/careers-at-education/roles-and-locations",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/careers-at-education/roles-and-locations",
+      "id": "5a9a15a86abeb5582dd73bb2606c1509d04a3fed"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/careers-at-education/roles-and-locations/employment-types",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/careers-at-education/roles-and-locations/employment-types",
+      "id": "1e0afb7a24c6a4e3223a9a1ec1224fe1c40fa029"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/careers-at-education/roles-and-locations/roles-at-education",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/careers-at-education/roles-and-locations/roles-at-education",
+      "id": "077531b8a8a9e02e2dcec79e6a48e735f07df7c3"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/careers-at-education/roles-and-locations/roles-at-education/admin-and-support",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/careers-at-education/roles-and-locations/roles-at-education/admin-and-support",
+      "id": "05ef47597c42068f2360637ba7dd0e63d21e27e2"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/careers-at-education/roles-and-locations/roles-at-education/admin-and-support/support-staff-employment-conditions",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/careers-at-education/roles-and-locations/roles-at-education/admin-and-support/support-staff-employment-conditions",
+      "id": "f23e97787a06f3e3fc00b4ab1d6e48a667ef3d94"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/careers-at-education/roles-and-locations/roles-at-education/corporate-roles",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/careers-at-education/roles-and-locations/roles-at-education/corporate-roles",
+      "id": "dc6242af605565b8e53310bdf7742562bb8a3dc4"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/careers-at-education/roles-and-locations/roles-at-education/school-leaders",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/careers-at-education/roles-and-locations/roles-at-education/school-leaders",
+      "id": "f75efc6cb33c2ebac22e8d0831970139ae3bea8e"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/careers-at-education/roles-and-locations/roles-at-education/senior-roles",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/careers-at-education/roles-and-locations/roles-at-education/senior-roles",
+      "id": "dd3cb94076de5251b640561bfb5f271c408ca9b9"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/careers-at-education/roles-and-locations/roles-at-education/senior-roles/applying-for-an-executive-role",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/careers-at-education/roles-and-locations/roles-at-education/senior-roles/applying-for-an-executive-role",
+      "id": "73d273e76863ab22a4cf8c6191a83c48214708de"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/careers-at-education/roles-and-locations/roles-at-education/teaching",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/careers-at-education/roles-and-locations/roles-at-education/teaching",
+      "id": "b9fa5e513acf1fde9b57e799925a876a14904bc6"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/careers-at-education/roles-and-locations/roles-at-education/teaching/casual-and-temporary-teaching",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/careers-at-education/roles-and-locations/roles-at-education/teaching/casual-and-temporary-teaching",
+      "id": "833bb2c31539ce080de9a0e377fc71dbec614f44"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/careers-at-education/roles-and-locations/roles-at-education/teaching/nesa-accreditation",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/careers-at-education/roles-and-locations/roles-at-education/teaching/nesa-accreditation",
+      "id": "6b1a54116b3d08d65247619b467cb9ffc8b34c7b"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/careers-at-education/roles-and-locations/roles-at-education/teaching/staffing-codes",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/careers-at-education/roles-and-locations/roles-at-education/teaching/staffing-codes",
+      "id": "cdca8af483b36a2a48948a93555398c4cdfd7dd4"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/careers-at-education/roles-and-locations/roles-at-education/teaching/teacher-induction-and-probation",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/careers-at-education/roles-and-locations/roles-at-education/teaching/teacher-induction-and-probation",
+      "id": "cd0a7c91b56bbadc273e5d6abf611ab03c7dadb3"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/careers-at-education/roles-and-locations/school-locations",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/careers-at-education/roles-and-locations/school-locations",
+      "id": "15cb5a284ba8ad9a4e9f15ff711d6699035e721e"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/careers-at-education/salary-and-benefits",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/careers-at-education/salary-and-benefits",
+      "id": "9959efc3bfb3230acc51859e8d936d5aad197c59"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/careers-at-education/salary-and-benefits/flexible-work-arrangements",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/careers-at-education/salary-and-benefits/flexible-work-arrangements",
+      "id": "e8be7801606fcc2a5dd3af966c9c15986e591091"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/careers-at-education/salary-and-benefits/leave",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/careers-at-education/salary-and-benefits/leave",
+      "id": "14ddceac8349715a0d19536b419f2d13070694bb"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/careers-at-education/salary-and-benefits/salary-and-awards",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/careers-at-education/salary-and-benefits/salary-and-awards",
+      "id": "b02af36fef7caf681ad115909c53d56d75f906ca"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/careers-at-education/salary-and-benefits/salary-packaging",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/careers-at-education/salary-and-benefits/salary-packaging",
+      "id": "ddc53d1de873477d1ed7030ccd574e1a4bf7bf4d"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/careers-at-education/salary-and-benefits/superannuation",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/careers-at-education/salary-and-benefits/superannuation",
+      "id": "e565f7edf03db3b45d51fd0f661a160b23c8fb00"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/careers-at-education/salary-and-benefits/taxation",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/careers-at-education/salary-and-benefits/taxation",
+      "id": "4f12983e8c86e1871e65fd4cabdb07373456800d"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/careers-at-education/scholarships-and-programs",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/careers-at-education/scholarships-and-programs",
+      "id": "e4b64aa48b9be9d625630f08624afaafaf30c67b"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/careers-at-education/scholarships-and-programs/scholarships",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/careers-at-education/scholarships-and-programs/scholarships",
+      "id": "94e66aed782c36913101bfa414e2083f6221550a"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/careers-at-education/scholarships-and-programs/scholarships/other-scholarships",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/careers-at-education/scholarships-and-programs/scholarships/other-scholarships",
+      "id": "57bd495eb7d378e4f894708d603ef8b0aa3f68dc"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/careers-at-education/why-work-at-education",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/careers-at-education/why-work-at-education",
+      "id": "d4ff9bad9ee675356b222e7cd1f52f97440c675c"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/careers-at-education/why-work-at-education/about-the-department",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/careers-at-education/why-work-at-education/about-the-department",
+      "id": "9460aa3601f2d5f1b76dc731ad07aad2ad3f93bf"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/careers-at-education/why-work-at-education/about-the-department/key-information",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/careers-at-education/why-work-at-education/about-the-department/key-information",
+      "id": "a7e35c6a4e2477027e0f54e199a57c4a743b74ec"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scan",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/education-data-and-research/scan",
+      "id": "59114df21ea7bec4e08c90e3f4cecb4cdc2e8573"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scan/latest-issue",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/education-data-and-research/scan/latest-issue",
+      "id": "c72ab211b81c9209fd3b3fb0ff9a2f5bf9c7258e"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scan/past-issues/peer-reviewed-research",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/education-data-and-research/scan/past-issues/peer-reviewed-research",
+      "id": "90622993ff9224854c6e337f23ecb6f8f838d711"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scan/past-issues/sparks",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/education-data-and-research/scan/past-issues/sparks",
+      "id": "341b6481f0817f67f7784ccc3b0f075554bde136"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/directors-educational-leadership/implementing-strategic-directions-using-evidence-based-practice-del",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/education-data-and-research/scout/directors-educational-leadership/implementing-strategic-directions-using-evidence-based-practice-del",
+      "id": "74769fc7d997b008ec90018dc3eb49be178cace1"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/news/newsroom",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/education-data-and-research/scout/news/newsroom",
+      "id": "cf1bcd8742d88de7bafe3373c501c3ceaa82b7a2"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/news/newsroom/all-about-scout",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/education-data-and-research/scout/news/newsroom/all-about-scout",
+      "id": "6aac77fc383501c700ae032bab0bcc8fa2a7adf0"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/news/newsroom/new-best-start-year-7-reports-now-live-",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/education-data-and-research/scout/news/newsroom/new-best-start-year-7-reports-now-live",
+      "id": "64ad5c2ff5c69a87b27d9ee1641088d5d091ab6d"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/news/newsroom/new-best-start-year-7-reports-now-live-1",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/education-data-and-research/scout/news/newsroom/new-best-start-year-7-reports-now-live-1",
+      "id": "b30c6ee3dc2fa4af1387e925036d37c7d7156b1f"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/news/newsroom/scout-demo-app-now-live-",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/education-data-and-research/scout/news/newsroom/scout-demo-app-now-live",
+      "id": "9acd1323ac3a1abb81969358f6904afc8bd44289"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/history-of-nsw-government-schools/facts-and-figures",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/history-of-nsw-government-schools/facts-and-figures",
+      "id": "1a98b8bd4505f62dd784db9aa5890d182f416f41"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/history-of-nsw-government-schools/facts-and-figures/administration-of-public-education",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/history-of-nsw-government-schools/facts-and-figures/administration-of-public-education",
+      "id": "4c748264842a194b37c36af3da20c853485c4199"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/history-of-nsw-government-schools/facts-and-figures/attendance",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/history-of-nsw-government-schools/facts-and-figures/attendance",
+      "id": "5b9bdfc8b17645ab8e98d11f39307bb2a64bd5bf"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/history-of-nsw-government-schools/facts-and-figures/class-size",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/history-of-nsw-government-schools/facts-and-figures/class-size",
+      "id": "8f8dc820f3222d569d34848f39db3e57b4e18a00"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/history-of-nsw-government-schools/facts-and-figures/examinations",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/history-of-nsw-government-schools/facts-and-figures/examinations",
+      "id": "e89b37d4c5df7454239da6e096f178241850ddfb"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/history-of-nsw-government-schools/facts-and-figures/holidays",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/history-of-nsw-government-schools/facts-and-figures/holidays",
+      "id": "7fdd4b4b811876c02340fe30cfd1956b5a4d01f3"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/history-of-nsw-government-schools/facts-and-figures/links-to-further-information",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/history-of-nsw-government-schools/facts-and-figures/links-to-further-information",
+      "id": "83851b620271a62ebc42ce63d316041fcbf365c0"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/history-of-nsw-government-schools/facts-and-figures/parent-organisations",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/history-of-nsw-government-schools/facts-and-figures/parent-organisations",
+      "id": "ea03314c8ebc8018303f4b7a4bd07c821b426fc7"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/history-of-nsw-government-schools/facts-and-figures/school-fees",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/history-of-nsw-government-schools/facts-and-figures/school-fees",
+      "id": "e0df1a54ce1497aa0dd54b4b347cf6ee353ddd1d"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/history-of-nsw-government-schools/facts-and-figures/schools-enrolment-and-retention-rates",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/history-of-nsw-government-schools/facts-and-figures/schools-enrolment-and-retention-rates",
+      "id": "9fe1cf191d9fb85330c2a4397394ae2720d5becc"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/history-of-nsw-government-schools/facts-and-figures/teachers",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/history-of-nsw-government-schools/facts-and-figures/teachers",
+      "id": "febeb01a8466f0803c61d6c0bb945a591b4db32d"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/history-of-nsw-government-schools/government-schools",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/history-of-nsw-government-schools/government-schools",
+      "id": "23d1deb6ccf8e976dffaa4673c9990fc5024c88f"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/history-of-nsw-government-schools/government-schools/early-history",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/history-of-nsw-government-schools/government-schools/early-history",
+      "id": "2f18305c0ea36ce88fd2d807952e49bbaf30dc08"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/history-of-nsw-government-schools/government-schools/national-system",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/history-of-nsw-government-schools/government-schools/national-system",
+      "id": "b08e7004fb0bbe36cde9e9d52f167780946daa44"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/history-of-nsw-government-schools/government-schools/public-instruction-act-1880",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/history-of-nsw-government-schools/government-schools/public-instruction-act-1880",
+      "id": "dbe58d23a8b85eaf09b0e58e97568d1e3949315c"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/history-of-nsw-government-schools/government-schools/public-schools-act-1866",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/history-of-nsw-government-schools/government-schools/public-schools-act-1866",
+      "id": "58d686242eb327640974b85a1422a5d42edaf9d2"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/history-of-nsw-government-schools/government-schools/reform-movement",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/history-of-nsw-government-schools/government-schools/reform-movement",
+      "id": "28ef7d4f2d32fecaad69d8cc6e587febeff8361d"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/history-of-nsw-government-schools/government-schools/since-world-war-ii",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/history-of-nsw-government-schools/government-schools/since-world-war-ii",
+      "id": "60c89598d5a49d44b3e442c130586856db2488ea"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/history-of-nsw-government-schools/photo-gallery",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/history-of-nsw-government-schools/photo-gallery",
+      "id": "4cc7ad560b1b28366f6209d5d16767435f6274ba"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/history-of-nsw-government-schools/photo-gallery/buildings",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/history-of-nsw-government-schools/photo-gallery/buildings",
+      "id": "1c5acbf3425b8a5904aa002e95d154d0927ac587"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/history-of-nsw-government-schools/photo-gallery/celebrations",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/history-of-nsw-government-schools/photo-gallery/celebrations",
+      "id": "7cb3a5e2014b3cfc29b17bc76742f7e81788b341"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/history-of-nsw-government-schools/photo-gallery/curriculum",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/history-of-nsw-government-schools/photo-gallery/curriculum",
+      "id": "9cd559ea4e28d536568b66979f32d37d5e2bcdac"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/history-of-nsw-government-schools/photo-gallery/equipment",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/history-of-nsw-government-schools/photo-gallery/equipment",
+      "id": "a7752a2e3c4e5dc677a010a1193ac60e827fd08a"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/history-of-nsw-government-schools/photo-gallery/junior-farmers-clubs",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/history-of-nsw-government-schools/photo-gallery/junior-farmers-clubs",
+      "id": "d8f3a6c5be42b3dd667b1c42d721cb951f74f1c4"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/history-of-nsw-government-schools/school-database-search",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/history-of-nsw-government-schools/school-database-search",
+      "id": "817eb62f2734f65b90adfaa9446e5f280e182749"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/history-of-nsw-government-schools/school-database-search/database-facts",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/history-of-nsw-government-schools/school-database-search/database-facts",
+      "id": "0a7495ca93597908e0ea87168bfd0f5ebe8891ea"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/history-of-nsw-government-schools/school-database-search/glossary",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/history-of-nsw-government-schools/school-database-search/glossary",
+      "id": "6e74c1f54569f1cffd4e15bebee412f59cf646d2"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/how-we-communicate/accessibility-basics",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/how-we-communicate/accessibility-basics",
+      "id": "b0334f822aeaa898ef9e5f2f8ba907b8c2cbfea7"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/how-we-communicate/accessibility-basics/accessibility-guidelines",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/how-we-communicate/accessibility-basics/accessibility-guidelines",
+      "id": "b6db0140f22cd2241b67aa44944fb782a6d32eaf"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/how-we-communicate/accessibility-basics/accessible-design",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/how-we-communicate/accessibility-basics/accessible-design",
+      "id": "087d1f5ab3c2732d1b57e735b2c1397fe702b447"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/how-we-communicate/accessibility-basics/checklist-for-accessible-content",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/how-we-communicate/accessibility-basics/checklist-for-accessible-content",
+      "id": "4e108dca3f2576dfc883c4af720dd481d5f70d85"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/how-we-communicate/accessibility-basics/creating-accessible-videos",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/how-we-communicate/accessibility-basics/creating-accessible-videos",
+      "id": "8d49fe3af85401776b3f1795d720b0e69eb6b0f7"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/our-facilities/community-use/advertising",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/our-facilities/community-use/advertising",
+      "id": "7bf7be076fe36e91822f11ed7c30027fc220473c"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/our-facilities/community-use/canteens",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/our-facilities/community-use/canteens",
+      "id": "66305d5f7ef1b438d758162a9fea5978a3584b2e"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/our-facilities/community-use/community-languages-schools",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/our-facilities/community-use/community-languages-schools",
+      "id": "e3e3b170f9c1e7f96f4515a2344ca6fff1fd51af"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/our-facilities/community-use/externally-funded-service-providers",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/our-facilities/community-use/externally-funded-service-providers",
+      "id": "db9a0855bb5e629737b1185f92aaf660415c065a"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/our-facilities/community-use/markets",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/our-facilities/community-use/markets",
+      "id": "b285677a4dd6591de4ee88c827d610c401b7a29f"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/our-facilities/community-use/mobile-telecommunications-facilities",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/our-facilities/community-use/mobile-telecommunications-facilities",
+      "id": "c4013be8dbc35fd3dd70d91c9d721273fdfac7b3"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/our-facilities/community-use/other-use",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/our-facilities/community-use/other-use",
+      "id": "2fde5517e2e69b478e8e8dc8610ec5e9101bef68"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/our-facilities/community-use/outside-schools-hours-care",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/our-facilities/community-use/outside-schools-hours-care",
+      "id": "068efbedb5b5f169534156d3134768b7a48fefa3"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/our-facilities/community-use/p-c-association",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/our-facilities/community-use/p-c-association",
+      "id": "f440d67d621e0c97525ff65f320e1d9265aa8128"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/our-facilities/community-use/share-our-space-program",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/our-facilities/community-use/share-our-space-program",
+      "id": "c5674e52d301d05bb2be86747c6406940440d4e3"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/our-facilities/community-use/uniform-shops",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/our-facilities/community-use/uniform-shops",
+      "id": "f8ba0d57ddddb45d5773f97ad93d8622aab4e1ed"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/our-people-and-structure",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/our-people-and-structure",
+      "id": "4511c9c3ce359691eef67ab9b0648ce1eccc0905"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/our-people-and-structure/higher-education-and-tertiary-policy/collaboration-innovation-fund",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/our-people-and-structure/higher-education-and-tertiary-policy/collaboration-innovation-fund",
+      "id": "0d12669336ef1c6ab5e35c2ed5ece7b9fd9e00be"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/our-people-and-structure/higher-education-and-tertiary-policy/education-strategic-research-fund",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/our-people-and-structure/higher-education-and-tertiary-policy/education-strategic-research-fund",
+      "id": "34b548fcc6f28954a6f3637eadd149ef848e5c6d"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/our-people-and-structure/higher-education-and-tertiary-policy/education-strategic-research-fund/application-forms-and-guidelines",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/our-people-and-structure/higher-education-and-tertiary-policy/education-strategic-research-fund/application-forms-and-guidelines",
+      "id": "8a9f0319d16b78585cf42f2f5709530ab6ec3c96"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/our-people-and-structure/higher-education-and-tertiary-policy/education-strategic-research-fund/grants-announcement",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/our-people-and-structure/higher-education-and-tertiary-policy/education-strategic-research-fund/grants-announcement",
+      "id": "6b38c00bcdfb1cf66f58fd6215f275281740c12b"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/strategies-and-reports/our-reconciliation-action-plan/reconciliation-action-plan",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/strategies-and-reports/our-reconciliation-action-plan/reconciliation-action-plan",
+      "id": "67cc19baba3f798c9446965a771e0936694a9dc4"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/strategies-and-reports/our-reports-and-reviews/review-on-the-nsw-vocational-education-and-training-sector",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/strategies-and-reports/our-reports-and-reviews/review-on-the-nsw-vocational-education-and-training-sector",
+      "id": "52e49ef4868615b534fa85c2bb81e9952318edf6"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/technology/login-help-for-doe-staff",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/technology/login-help-for-doe-staff",
+      "id": "4f206f81b4edbe7224a3c0ba5ecbf584f617e56a"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/technology/login-help-for-doe-staff/change-your-password",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/technology/login-help-for-doe-staff/change-your-password",
+      "id": "159d4766b900912068cc15e81770d3a1924710f8"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/technology/login-help-for-doe-staff/manage-your-extranet-password-and-secret-questions",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/technology/login-help-for-doe-staff/manage-your-extranet-password-and-secret-questions",
+      "id": "e1157928293e032646ec26b1adda99af8897fc7f"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/technology/login-help-for-doe-staff/reset-your-password-via-personal-email",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/technology/login-help-for-doe-staff/reset-your-password-via-personal-email",
+      "id": "778447c61f9495119d1d0d24e3e744422f73db93"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/technology/login-help-for-doe-staff/reset-your-password-with-mobile-phone",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/technology/login-help-for-doe-staff/reset-your-password-with-mobile-phone",
+      "id": "1315c87c0b944e375517c153a2efe14285e50adb"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/technology/login-help-for-doe-staff/reset-your-password-with-secret-questions-and-answers",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/technology/login-help-for-doe-staff/reset-your-password-with-secret-questions-and-answers",
+      "id": "27f350c10f1075f7cf03934a7b17cd783dff1330"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": 100,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "sitemaps",
+    "logger": {},
+    "strategiesAttempted": [
+      "SITEMAPS"
+    ]
+  },
+  "extractionErrors": [
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/asset-planning-dashboard/asp-age-bands",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/asset-planning-dashboard/asp-age-bands"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/asset-planning-dashboard/asp-atar-results",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/asset-planning-dashboard/asp-atar-results"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/asset-planning-dashboard/asp-demographic-projection",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/asset-planning-dashboard/asp-demographic-projection"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/asset-planning-dashboard/asp-enrolment-share",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/asset-planning-dashboard/asp-enrolment-share"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/asset-planning-dashboard/asp-enrolments",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/asset-planning-dashboard/asp-enrolments"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/asset-planning-dashboard/asp-fci-analysis",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/asset-planning-dashboard/asp-fci-analysis"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/asset-planning-dashboard/asp-hsc-results",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/asset-planning-dashboard/asp-hsc-results"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/asset-planning-dashboard/asp-icsea-foei",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/asset-planning-dashboard/asp-icsea-foei"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/asset-planning-dashboard/asp-leave-activity",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/asset-planning-dashboard/asp-leave-activity"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/asset-planning-dashboard/asp-length-of-service",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/asset-planning-dashboard/asp-length-of-service"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/asset-planning-dashboard/asp-naplan-results",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/asset-planning-dashboard/asp-naplan-results"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/asset-planning-dashboard/asp-position-type",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/asset-planning-dashboard/asp-position-type"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/asset-planning-dashboard/asp-primary-feeder-schools",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/asset-planning-dashboard/asp-primary-feeder-schools"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/asset-planning-dashboard/asp-primary-feeder-trend",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/asset-planning-dashboard/asp-primary-feeder-trend"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/asset-planning-dashboard/asp-primary-retention",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/asset-planning-dashboard/asp-primary-retention"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/asset-planning-dashboard/asp-primary-transition",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/asset-planning-dashboard/asp-primary-transition"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/asset-planning-dashboard/asp-primary-transition-trend",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/asset-planning-dashboard/asp-primary-transition-trend"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/asset-planning-dashboard/asp-professional-development",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/asset-planning-dashboard/asp-professional-development"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/asset-planning-dashboard/asp-secondary-retention",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/asset-planning-dashboard/asp-secondary-retention"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/asset-planning-dashboard/asp-student-population-makeup",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/asset-planning-dashboard/asp-student-population-makeup"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/asset-planning-dashboard/asp-teaching-spaces",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/asset-planning-dashboard/asp-teaching-spaces"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/asset-planning-dashboard/asp-turnover",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/asset-planning-dashboard/asp-turnover"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/attendance-and-engagement/application-activity",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/attendance-and-engagement/application-activity"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/attendance-and-engagement/cohort-attendance-summary",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/attendance-and-engagement/cohort-attendance-summary"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/attendance-and-engagement/student-attendance-summary",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/attendance-and-engagement/student-attendance-summary"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/check-in-assessment-non-gov/student-item-analysis",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/check-in-assessment-non-gov/student-item-analysis"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/check-in-assessment/student-differentiation",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/check-in-assessment/student-differentiation"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/community-profile/aboriginal-percentage-of-population-by-statistical-area",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/community-profile/aboriginal-percentage-of-population-by-statistical-area"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/community-profile/crime-statistics-and-trends",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/community-profile/crime-statistics-and-trends"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/community-profile/health-statistics",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/community-profile/health-statistics"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/community-profile/households-by-weekly-income-band",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/community-profile/households-by-weekly-income-band"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/community-profile/seifa-index-by-statistical-area",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/community-profile/seifa-index-by-statistical-area"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/corporate-finance/monthly-investigation",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/corporate-finance/monthly-investigation"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/corporate-finance/monthly-overview",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/corporate-finance/monthly-overview"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/enrolments/carers-profile",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/enrolments/carers-profile"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/enrolments/current-enrolment",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/enrolments/current-enrolment"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/enrolments/destination-high-school",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/enrolments/destination-high-school"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/enrolments/destination-high-school-trend",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/enrolments/destination-high-school-trend"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/enrolments/enrolment-across-schools",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/enrolments/enrolment-across-schools"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/enrolments/enrolments-by-intake-area",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/enrolments/enrolments-by-intake-area"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/enrolments/high-school-re-enrolment-rate",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/enrolments/high-school-re-enrolment-rate"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/enrolments/official-attendance-census",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/enrolments/official-attendance-census"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/enrolments/official-enrolment-census",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/enrolments/official-enrolment-census"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/enrolments/origin-primary-school",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/enrolments/origin-primary-school"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/enrolments/origin-primary-school-trend",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/enrolments/origin-primary-school-trend"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/enrolments/primary-re-enrolment-rate",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/enrolments/primary-re-enrolment-rate"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/finance-for-schools/banking-effectiveness",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/finance-for-schools/banking-effectiveness"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/finance-for-schools/unpaid-invoices",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/finance-for-schools/unpaid-invoices"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/hsc/atar-bands-across-years",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/hsc/atar-bands-across-years"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/hsc/average-hsc-score-vs-sssg-state",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/hsc/average-hsc-score-vs-sssg-state"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/hsc/hsc-average-difference-from-state",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/hsc/hsc-average-difference-from-state"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/hsc/hsc-course-selection-by-naplan-9-band-category",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/hsc/hsc-course-selection-by-naplan-9-band-category"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/hsc/hsc-course-z-score-analysis",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/hsc/hsc-course-z-score-analysis"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/hsc/hsc-results",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/hsc/hsc-results"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/hsc/hsc-results-across-schools",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/hsc/hsc-results-across-schools"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/hsc/hsc-results-by-naplan-9-band-category",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/hsc/hsc-results-by-naplan-9-band-category"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/hsc/hsc-results-by-ses",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/hsc/hsc-results-by-ses"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/hsc/hsc-results-in-bands",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/hsc/hsc-results-in-bands"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/hsc/hsc-school-vs-state-within-school-analysis",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/hsc/hsc-school-vs-state-within-school-analysis"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/hsc/naplan-9-reading-and-numeracy-vs-hsc",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/hsc/naplan-9-reading-and-numeracy-vs-hsc"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/hsc/student-hsc-results",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/hsc/student-hsc-results"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/hsc/z-score-x-y-graph",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/hsc/z-score-x-y-graph"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/human-resources-for-schools/accreditation",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/human-resources-for-schools/accreditation"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/human-resources-for-schools/casual-timesheets",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/human-resources-for-schools/casual-timesheets"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/human-resources-for-schools/current-staff-profile",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/human-resources-for-schools/current-staff-profile"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/human-resources-for-schools/employee-mobility",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/human-resources-for-schools/employee-mobility"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/human-resources-for-schools/hr-recruitment",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/human-resources-for-schools/hr-recruitment"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/human-resources-for-schools/leave-patterns",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/human-resources-for-schools/leave-patterns"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/human-resources-for-schools/lwop-",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/human-resources-for-schools/lwop-"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/human-resources-for-schools/manage-temporary-movements",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/human-resources-for-schools/manage-temporary-movements"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/human-resources-for-schools/professional-development",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/human-resources-for-schools/professional-development"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/human-resources-for-schools/subjects-accredited-to-teach",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/human-resources-for-schools/subjects-accredited-to-teach"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/human-resources-for-schools/unfilled-vacancies",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/human-resources-for-schools/unfilled-vacancies"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/human-resources-for-schools/workforce-composition",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/human-resources-for-schools/workforce-composition"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/human-resources-for-schools/workforce-diversity",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/human-resources-for-schools/workforce-diversity"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/leave-management--schools-/managing-recreation-leave",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/leave-management--schools-/managing-recreation-leave"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/leave-management--schools-/sick-leave-management",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/leave-management--schools-/sick-leave-management"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/naplan---non-doe/all-student-growth",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/naplan---non-doe/all-student-growth"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/naplan---non-doe/atar-bands-across-years",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/naplan---non-doe/atar-bands-across-years"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/naplan---non-doe/average-naplan-over-time-vs-sssg-state",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/naplan---non-doe/average-naplan-over-time-vs-sssg-state"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/naplan---non-doe/equity-groups",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/naplan---non-doe/equity-groups"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/naplan---non-doe/individual-student-growth",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/naplan---non-doe/individual-student-growth"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/naplan---non-doe/naplan-9-reading-and-numeracy-vs-atar-across-schools",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/naplan---non-doe/naplan-9-reading-and-numeracy-vs-atar-across-schools"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/naplan---non-doe/naplan-reading-And-numeracy-over-time",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/naplan---non-doe/naplan-reading-And-numeracy-over-time"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/naplan---non-doe/naplan-results",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/naplan---non-doe/naplan-results"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/naplan---non-doe/naplan-score-distribution-across-schools",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/naplan---non-doe/naplan-score-distribution-across-schools"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/naplan---non-doe/number-of-students-in-bands-over-time",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/naplan---non-doe/number-of-students-in-bands-over-time"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/naplan---non-doe/percentage-in-band-category-across-schools",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/naplan---non-doe/percentage-in-band-category-across-schools"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/naplan---non-doe/percentage-in-bands-vs-sssg-state",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/naplan---non-doe/percentage-in-bands-vs-sssg-state"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/naplan---non-doe/percentage-of-students-in-naplan-bands-across-schools",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/naplan---non-doe/percentage-of-students-in-naplan-bands-across-schools"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/naplan---non-doe/percentage-of-students-in-top-two-bands",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/naplan---non-doe/percentage-of-students-in-top-two-bands"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/naplan---non-doe/premiers-priority",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/naplan---non-doe/premiers-priority"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/naplan---non-doe/school-item-analysis-non-writing",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/naplan---non-doe/school-item-analysis-non-writing"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/naplan---non-doe/school-item-analysis-writing",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/naplan---non-doe/school-item-analysis-writing"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/naplan---non-doe/school-level-growth",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/naplan---non-doe/school-level-growth"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/naplan---non-doe/school-performance/school-level-growth",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/naplan---non-doe/school-performance/school-level-growth"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/naplan---non-doe/sp-percentage-in-bands-over-time",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/naplan---non-doe/sp-percentage-in-bands-over-time"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/naplan---non-doe/student-growth-across-bands",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/naplan---non-doe/student-growth-across-bands"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/naplan---non-doe/student-item-analysis-non-writing",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/naplan---non-doe/student-item-analysis-non-writing"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/naplan---non-doe/student-item-analysis-writing",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/naplan---non-doe/student-item-analysis-writing"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/naplan---non-doe/student-single-view",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/naplan---non-doe/student-single-view"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/nccd/network",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/nccd/network"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/nccd/principal-network-categories-and-levels",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/nccd/principal-network-categories-and-levels"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/nccd/student-report",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/nccd/student-report"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/resource-consumption/electricity-consumption-report",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/resource-consumption/electricity-consumption-report"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/resource-consumption/gas-consumption-report",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/resource-consumption/gas-consumption-report"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/school-dashboard/metrics-by-location",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/school-dashboard/metrics-by-location"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/school-dashboard/school-complexity-factors",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/school-dashboard/school-complexity-factors"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/school-dashboard/school-dashboard",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/school-dashboard/school-dashboard"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/school-dashboard/school-dashboard/data-grid",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/school-dashboard/school-dashboard/data-grid"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/school-dashboard/school-dashboard/data-grid1",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/school-dashboard/school-dashboard/data-grid1"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/school-dashboard/school-dashboard/network-summary",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/school-dashboard/school-dashboard/network-summary"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/school-dashboard/school-dashboard/network-summary1",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/school-dashboard/school-dashboard/network-summary1"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/school-dashboard/school-dashboard/school-dashboard",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/school-dashboard/school-dashboard/school-dashboard"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/school-dashboard/school-dashboard/school-dashboard1",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/school-dashboard/school-dashboard/school-dashboard1"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/school-dashboard/target-progress",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/school-dashboard/target-progress"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/school-dashboard/target-progress/attendance",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/school-dashboard/target-progress/attendance"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/school-dashboard/target-progress/hsc-top-bands",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/school-dashboard/target-progress/hsc-top-bands"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/school-dashboard/target-progress/naplan-expected-growth",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/school-dashboard/target-progress/naplan-expected-growth"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/school-dashboard/target-progress/naplan-top-2-bands",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/school-dashboard/target-progress/naplan-top-2-bands"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/school-dashboard/target-progress/wellbeing",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/school-dashboard/target-progress/wellbeing"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/school-dashboard/your-school-plan",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/school-dashboard/your-school-plan"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/schools-renewal-dashboard/scr-age-bands",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/schools-renewal-dashboard/scr-age-bands"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/schools-renewal-dashboard/scr-atar",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/schools-renewal-dashboard/scr-atar"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/schools-renewal-dashboard/scr-demographic-projection",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/schools-renewal-dashboard/scr-demographic-projection"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/schools-renewal-dashboard/scr-enrolments",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/schools-renewal-dashboard/scr-enrolments"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/schools-renewal-dashboard/scr-hsc-results",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/schools-renewal-dashboard/scr-hsc-results"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/schools-renewal-dashboard/scr-icsea-foei",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/schools-renewal-dashboard/scr-icsea-foei"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/schools-renewal-dashboard/scr-leave-activity",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/schools-renewal-dashboard/scr-leave-activity"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/schools-renewal-dashboard/scr-length-of-service",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/schools-renewal-dashboard/scr-length-of-service"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/schools-renewal-dashboard/scr-naplan-results",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/schools-renewal-dashboard/scr-naplan-results"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/schools-renewal-dashboard/scr-primary-feeder-school",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/schools-renewal-dashboard/scr-primary-feeder-school"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/schools-renewal-dashboard/scr-primary-feeder-school/primary-feeder",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/schools-renewal-dashboard/scr-primary-feeder-school/primary-feeder"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/schools-renewal-dashboard/scr-primary-feeder-trend",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/schools-renewal-dashboard/scr-primary-feeder-trend"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/schools-renewal-dashboard/scr-primary-retention",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/schools-renewal-dashboard/scr-primary-retention"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/schools-renewal-dashboard/scr-primary-transition",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/schools-renewal-dashboard/scr-primary-transition"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/schools-renewal-dashboard/scr-primary-transition-trend",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/schools-renewal-dashboard/scr-primary-transition-trend"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/schools-renewal-dashboard/scr-professional-development",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/schools-renewal-dashboard/scr-professional-development"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/schools-renewal-dashboard/scr-secondary-retention",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/schools-renewal-dashboard/scr-secondary-retention"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/schools-renewal-dashboard/scr-sssg-and-state-performance",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/schools-renewal-dashboard/scr-sssg-and-state-performance"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/schools-renewal-dashboard/scr-student-population-makeup",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/schools-renewal-dashboard/scr-student-population-makeup"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/schools-renewal-dashboard/scr-turnover",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/schools-renewal-dashboard/scr-turnover"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/service-management/open-support-requests",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/service-management/open-support-requests"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/service-management/support-request-history",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/service-management/support-request-history"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/shs-application/shs-applications-list",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/shs-application/shs-applications-list"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/tell-them-from-me/advocacy-expectations-belonging-between-school-comparison",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/tell-them-from-me/advocacy-expectations-belonging-between-school-comparison"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/tell-them-from-me/advocacy-expectations-belonging-by-school-over-time",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/tell-them-from-me/advocacy-expectations-belonging-by-school-over-time"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/tell-them-from-me/advocacy-expectations-belonging-quadrants",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/tell-them-from-me/advocacy-expectations-belonging-quadrants"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/tell-them-from-me/participation",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/tell-them-from-me/participation"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/tell-them-from-me/tffm-how-is-this-data-different-to-the-portal",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/tell-them-from-me/tffm-how-is-this-data-different-to-the-portal"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/transition-to-school",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/transition-to-school"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/transition-to-school/tts-report",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/transition-to-school/tts-report"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/transition-to-year-7",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/transition-to-year-7"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/transition-to-year-7/cohort-performance",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/transition-to-year-7/cohort-performance"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/transition-to-year-7/student-performance",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/transition-to-year-7/student-performance"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/valid/average-valid-over-time",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/valid/average-valid-over-time"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/valid/preliminary-report",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/valid/preliminary-report"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/valid/school-item-analysis2",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/valid/school-item-analysis2"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/valid/valid-participation",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/valid/valid-participation"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/valid/valid-percentage-of-students-in-levels",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/valid/valid-percentage-of-students-in-levels"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/valid/valid-results",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/valid/valid-results"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/valid/valid-results-across-schools",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/valid/valid-results-across-schools"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/valid/valid-student-growth",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/valid/valid-student-growth"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/valid/valid-student-item-analysis",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/valid/valid-student-item-analysis"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/scout-overview/apps-and-reports/valid/valid-survey",
+      "status": "301 Moved Permanently Redirect: http://education.nsw.gov.au/technology/scout/apps-and-reports/valid/valid-survey"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/careers-at-education/scholarships-and-programs/scholarships/premiers-teacher-scholarships/scholarships/technology",
+      "status": "302 Found Redirect: https://education.nsw.gov.au/content/main-education/en/home/teach-nsw/enhance-your-career/nsw-premier-s-teacher-scholarships/premier-s-education-perfect-technology-in-education-scholarship"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/careers-at-education/why-work-at-education/child-page",
+      "status": "302 Moved Temporarily Redirect: https://education.nsw.gov.au/content/main-education/en/home/about-us/careers-at-education/salary-and-benefits.html"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/directors-educational-leadership/access-scout-reports-del",
+      "status": "302 Moved Temporarily Redirect: https://education.nsw.gov.au/content/main-education/en/home/about-us/education-data-and-research/scout/reports.html"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/directors-educational-leadership/registration-and-support-del",
+      "status": "302 Moved Temporarily Redirect: https://education.nsw.gov.au/content/main-education/en/home/about-us/education-data-and-research/scout/support.html"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/careers-at-education/scholarships-and-programs/scholarships/premiers-teacher-scholarships/scholarships",
+      "status": "302 Moved Temporarily Redirect: https://education.nsw.gov.au/content/main-education/en/home/teach-nsw/enhance-your-career/nsw-premier-s-teacher-scholarships.html"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/careers-at-education/scholarships-and-programs/scholarships/premiers-teacher-scholarships/scholarships/english",
+      "status": "302 Moved Temporarily Redirect: https://education.nsw.gov.au/content/main-education/en/home/teach-nsw/enhance-your-career/nsw-premier-s-teacher-scholarships/premier-s-english-teachers-association-english-scholarship"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/careers-at-education/scholarships-and-programs/scholarships/premiers-teacher-scholarships/scholarships/health-education",
+      "status": "302 Moved Temporarily Redirect: https://education.nsw.gov.au/content/main-education/en/home/teach-nsw/enhance-your-career/nsw-premier-s-teacher-scholarships/premier-s-hicksons-lawyers-health-education-and-wellbeing-schola"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/careers-at-education/scholarships-and-programs/scholarships/premiers-teacher-scholarships/scholarships/history",
+      "status": "302 Moved Temporarily Redirect: https://education.nsw.gov.au/content/main-education/en/home/teach-nsw/enhance-your-career/nsw-premier-s-teacher-scholarships/premier-s-history-teachers--association-history-scholarship.html"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/careers-at-education/scholarships-and-programs/scholarships/premiers-teacher-scholarships/scholarships/quality-teaching",
+      "status": "302 Moved Temporarily Redirect: https://education.nsw.gov.au/content/main-education/en/home/teach-nsw/enhance-your-career/nsw-premier-s-teacher-scholarships/premier-s-nesa-quality-teaching-scholarship0"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/careers-at-education/scholarships-and-programs/scholarships/premiers-teacher-scholarships/scholarships/economics",
+      "status": "302 Moved Temporarily Redirect: https://education.nsw.gov.au/content/main-education/en/home/teach-nsw/enhance-your-career/nsw-premier-s-teacher-scholarships/premier-s-reserve-bank-of-australia-economics-scholarship0"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/careers-at-education/scholarships-and-programs/scholarships/premiers-teacher-scholarships/scholarships/aboriginal-education",
+      "status": "302 Moved Temporarily Redirect: https://education.nsw.gov.au/content/main-education/en/home/teach-nsw/enhance-your-career/nsw-premier-s-teacher-scholarships/premier-s-teachers-mutual-bank-aboriginal-education-scholarship0"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/careers-at-education/scholarships-and-programs/scholarships/premiers-teacher-scholarships/scholarships/mathematics",
+      "status": "302 Moved Temporarily Redirect: https://education.nsw.gov.au/content/main-education/en/home/teach-nsw/enhance-your-career/nsw-premier-s-teacher-scholarships/premier-s-university-of-sydney-mathematics-scholarship.html"
+    },
+    {
+      "url": "https://education.nsw.gov.au/about-us/careers-at-education/scholarships-and-programs/scholarships/premiers-teacher-scholarships/scholarships/vocational-education",
+      "status": "302 Moved Temporarily Redirect: https://education.nsw.gov.au/content/main-education/en/home/teach-nsw/enhance-your-career/nsw-premier-s-teacher-scholarships/premier-s-vocational-education-in-schools-scholarship.html"
+    }
+  ],
+  "errorCountMessage": "{\"E_301\":165,\"E_302\":13}",
+  "error": null
+}
