@@ -1,0 +1,464 @@
+{
+  "templates": [
+    {
+      "name": "\"Dashboard Template\"",
+      "cluster": 1,
+      "pages": [
+        {
+          "url": "https://education.nsw.gov.au/about-us/careers-at-education/salary-and-benefits/salary-and-awards",
+          "uuid": "b02af36fef7caf681ad115909c53d56d75f906ca"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scan",
+          "uuid": "59114df21ea7bec4e08c90e3f4cecb4cdc2e8573"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/careers-at-education",
+          "uuid": "0592c217adcad3780d2f7315d643d6c8c60ef1e5"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/careers-at-education/employment-opportunities",
+          "uuid": "23242501e7085f2e3a32a270780e12f6b189d553"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/careers-at-education/salary-and-benefits",
+          "uuid": "9959efc3bfb3230acc51859e8d936d5aad197c59"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/careers-at-education/why-work-at-education",
+          "uuid": "d4ff9bad9ee675356b222e7cd1f52f97440c675c"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/how-we-communicate/accessibility-basics",
+          "uuid": "b0334f822aeaa898ef9e5f2f8ba907b8c2cbfea7"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/careers-at-education/roles-and-locations",
+          "uuid": "5a9a15a86abeb5582dd73bb2606c1509d04a3fed"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/careers-at-education/roles-and-locations/roles-at-education/admin-and-support",
+          "uuid": "05ef47597c42068f2360637ba7dd0e63d21e27e2"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us",
+          "uuid": "4f53c9f4d9414077c64bf2f49a3b6c34b170c3a5"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/careers-at-education/scholarships-and-programs",
+          "uuid": "e4b64aa48b9be9d625630f08624afaafaf30c67b"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/careers-at-education/roles-and-locations/roles-at-education/senior-roles/applying-for-an-executive-role",
+          "uuid": "73d273e76863ab22a4cf8c6191a83c48214708de"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/careers-at-education/roles-and-locations/roles-at-education/teaching/casual-and-temporary-teaching",
+          "uuid": "833bb2c31539ce080de9a0e377fc71dbec614f44"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/our-people-and-structure",
+          "uuid": "4511c9c3ce359691eef67ab9b0648ce1eccc0905"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/careers-at-education/roles-and-locations/roles-at-education",
+          "uuid": "077531b8a8a9e02e2dcec79e6a48e735f07df7c3"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/careers-at-education/roles-and-locations/roles-at-education/school-leaders",
+          "uuid": "f75efc6cb33c2ebac22e8d0831970139ae3bea8e"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/careers-at-education/roles-and-locations/roles-at-education/teaching/teacher-induction-and-probation",
+          "uuid": "cd0a7c91b56bbadc273e5d6abf611ab03c7dadb3"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/technology/login-help-for-doe-staff",
+          "uuid": "4f206f81b4edbe7224a3c0ba5ecbf584f617e56a"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/careers-at-education/why-work-at-education/about-the-department/key-information",
+          "uuid": "a7e35c6a4e2477027e0f54e199a57c4a743b74ec"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/careers-at-education/roles-and-locations/roles-at-education/corporate-roles",
+          "uuid": "dc6242af605565b8e53310bdf7742562bb8a3dc4"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/careers-at-education/why-work-at-education/about-the-department",
+          "uuid": "9460aa3601f2d5f1b76dc731ad07aad2ad3f93bf"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/careers-at-education/roles-and-locations/roles-at-education/teaching/staffing-codes",
+          "uuid": "cdca8af483b36a2a48948a93555398c4cdfd7dd4"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/careers-at-education/employment-opportunities/participate-on-a-selection-panel",
+          "uuid": "c84021d4d4e295ff85ed7aebe223501323e4dd5c"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/careers-at-education/scholarships-and-programs/scholarships/other-scholarships",
+          "uuid": "57bd495eb7d378e4f894708d603ef8b0aa3f68dc"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/careers-at-education/roles-and-locations/school-locations",
+          "uuid": "15cb5a284ba8ad9a4e9f15ff711d6699035e721e"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/careers-at-education/employment-opportunities/current-vacancies",
+          "uuid": "12b1588bbb39bca3dd6528c6cae5425e3b456144"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/careers-at-education/roles-and-locations/roles-at-education/teaching/nesa-accreditation",
+          "uuid": "6b1a54116b3d08d65247619b467cb9ffc8b34c7b"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/careers-at-education/roles-and-locations/roles-at-education/senior-roles",
+          "uuid": "dd3cb94076de5251b640561bfb5f271c408ca9b9"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/careers-at-education/salary-and-benefits/leave",
+          "uuid": "14ddceac8349715a0d19536b419f2d13070694bb"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/careers-at-education/salary-and-benefits/salary-packaging",
+          "uuid": "ddc53d1de873477d1ed7030ccd574e1a4bf7bf4d"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/careers-at-education/salary-and-benefits/superannuation",
+          "uuid": "e565f7edf03db3b45d51fd0f661a160b23c8fb00"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/careers-at-education/salary-and-benefits/taxation",
+          "uuid": "4f12983e8c86e1871e65fd4cabdb07373456800d"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/careers-at-education/roles-and-locations/employment-types",
+          "uuid": "1e0afb7a24c6a4e3223a9a1ec1224fe1c40fa029"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/careers-at-education/roles-and-locations/roles-at-education/admin-and-support/support-staff-employment-conditions",
+          "uuid": "f23e97787a06f3e3fc00b4ab1d6e48a667ef3d94"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/careers-at-education/roles-and-locations/roles-at-education/teaching",
+          "uuid": "b9fa5e513acf1fde9b57e799925a876a14904bc6"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/careers-at-education/salary-and-benefits/flexible-work-arrangements",
+          "uuid": "e8be7801606fcc2a5dd3af966c9c15986e591091"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/careers-at-education/scholarships-and-programs/scholarships",
+          "uuid": "94e66aed782c36913101bfa414e2083f6221550a"
+        }
+      ]
+    },
+    {
+      "name": "'Document Listing Page'",
+      "cluster": 2,
+      "pages": [
+        {
+          "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scan/past-issues/peer-reviewed-research",
+          "uuid": "90622993ff9224854c6e337f23ecb6f8f838d711"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scan/past-issues/sparks",
+          "uuid": "341b6481f0817f67f7784ccc3b0f075554bde136"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/directors-educational-leadership/implementing-strategic-directions-using-evidence-based-practice-del",
+          "uuid": "74769fc7d997b008ec90018dc3eb49be178cace1"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/news/newsroom/all-about-scout",
+          "uuid": "6aac77fc383501c700ae032bab0bcc8fa2a7adf0"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scan/latest-issue",
+          "uuid": "c72ab211b81c9209fd3b3fb0ff9a2f5bf9c7258e"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/news/newsroom",
+          "uuid": "cf1bcd8742d88de7bafe3373c501c3ceaa82b7a2"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/news/newsroom/new-best-start-year-7-reports-now-live-1",
+          "uuid": "b30c6ee3dc2fa4af1387e925036d37c7d7156b1f"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/news/newsroom/new-best-start-year-7-reports-now-live-",
+          "uuid": "64ad5c2ff5c69a87b27d9ee1641088d5d091ab6d"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/education-data-and-research/scout/news/newsroom/scout-demo-app-now-live-",
+          "uuid": "9acd1323ac3a1abb81969358f6904afc8bd44289"
+        }
+      ]
+    },
+    {
+      "name": "'Form and Data Entry Template'",
+      "cluster": 3,
+      "pages": [
+        {
+          "url": "https://education.nsw.gov.au/about-us/our-people-and-structure/higher-education-and-tertiary-policy/education-strategic-research-fund/grants-announcement",
+          "uuid": "6b38c00bcdfb1cf66f58fd6215f275281740c12b"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/our-people-and-structure/higher-education-and-tertiary-policy/education-strategic-research-fund",
+          "uuid": "34b548fcc6f28954a6f3637eadd149ef848e5c6d"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/our-people-and-structure/higher-education-and-tertiary-policy/education-strategic-research-fund/application-forms-and-guidelines",
+          "uuid": "8a9f0319d16b78585cf42f2f5709530ab6ec3c96"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/our-people-and-structure/higher-education-and-tertiary-policy/collaboration-innovation-fund",
+          "uuid": "0d12669336ef1c6ab5e35c2ed5ece7b9fd9e00be"
+        }
+      ]
+    },
+    {
+      "name": "'Form Page'",
+      "cluster": 4,
+      "pages": [
+        {
+          "url": "https://education.nsw.gov.au/about-us/history-of-nsw-government-schools/school-database-search/glossary",
+          "uuid": "6e74c1f54569f1cffd4e15bebee412f59cf646d2"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/history-of-nsw-government-schools/school-database-search/database-facts",
+          "uuid": "0a7495ca93597908e0ea87168bfd0f5ebe8891ea"
+        }
+      ]
+    },
+    {
+      "name": "'Blog Listing'",
+      "cluster": 5,
+      "pages": [
+        {
+          "url": "https://education.nsw.gov.au/about-us/strategies-and-reports/our-reports-and-reviews/review-on-the-nsw-vocational-education-and-training-sector",
+          "uuid": "52e49ef4868615b534fa85c2bb81e9952318edf6"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/strategies-and-reports/our-reconciliation-action-plan/reconciliation-action-plan",
+          "uuid": "67cc19baba3f798c9446965a771e0936694a9dc4"
+        }
+      ]
+    },
+    {
+      "name": "'Sidebar Navigation Page'",
+      "cluster": 6,
+      "pages": [
+        {
+          "url": "https://education.nsw.gov.au/about-us/campaigns-and-initiatives/175-years-of-public-education-in-nsw",
+          "uuid": "aaaec406211d47a6e6509e57096aa27393a50c11"
+        }
+      ]
+    },
+    {
+      "name": "'Dashboard Layout'",
+      "cluster": 7,
+      "pages": [
+        {
+          "url": "https://education.nsw.gov.au/about-us/history-of-nsw-government-schools/facts-and-figures/links-to-further-information",
+          "uuid": "83851b620271a62ebc42ce63d316041fcbf365c0"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/history-of-nsw-government-schools/photo-gallery/curriculum",
+          "uuid": "9cd559ea4e28d536568b66979f32d37d5e2bcdac"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/history-of-nsw-government-schools/facts-and-figures/teachers",
+          "uuid": "febeb01a8466f0803c61d6c0bb945a591b4db32d"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/history-of-nsw-government-schools/photo-gallery/equipment",
+          "uuid": "a7752a2e3c4e5dc677a010a1193ac60e827fd08a"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/history-of-nsw-government-schools/photo-gallery/celebrations",
+          "uuid": "7cb3a5e2014b3cfc29b17bc76742f7e81788b341"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/history-of-nsw-government-schools/photo-gallery/buildings",
+          "uuid": "1c5acbf3425b8a5904aa002e95d154d0927ac587"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/history-of-nsw-government-schools/government-schools/public-instruction-act-1880",
+          "uuid": "dbe58d23a8b85eaf09b0e58e97568d1e3949315c"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/history-of-nsw-government-schools/photo-gallery/junior-farmers-clubs",
+          "uuid": "d8f3a6c5be42b3dd667b1c42d721cb951f74f1c4"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/history-of-nsw-government-schools/facts-and-figures/examinations",
+          "uuid": "e89b37d4c5df7454239da6e096f178241850ddfb"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/history-of-nsw-government-schools/facts-and-figures/holidays",
+          "uuid": "7fdd4b4b811876c02340fe30cfd1956b5a4d01f3"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/history-of-nsw-government-schools/facts-and-figures/class-size",
+          "uuid": "8f8dc820f3222d569d34848f39db3e57b4e18a00"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/history-of-nsw-government-schools/facts-and-figures/administration-of-public-education",
+          "uuid": "4c748264842a194b37c36af3da20c853485c4199"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/history-of-nsw-government-schools/government-schools/reform-movement",
+          "uuid": "28ef7d4f2d32fecaad69d8cc6e587febeff8361d"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/history-of-nsw-government-schools/government-schools/public-schools-act-1866",
+          "uuid": "58d686242eb327640974b85a1422a5d42edaf9d2"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/history-of-nsw-government-schools/school-database-search",
+          "uuid": "817eb62f2734f65b90adfaa9446e5f280e182749"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/history-of-nsw-government-schools/government-schools/since-world-war-ii",
+          "uuid": "60c89598d5a49d44b3e442c130586856db2488ea"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/history-of-nsw-government-schools/government-schools/national-system",
+          "uuid": "b08e7004fb0bbe36cde9e9d52f167780946daa44"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/history-of-nsw-government-schools/government-schools/early-history",
+          "uuid": "2f18305c0ea36ce88fd2d807952e49bbaf30dc08"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/history-of-nsw-government-schools/facts-and-figures/school-fees",
+          "uuid": "e0df1a54ce1497aa0dd54b4b347cf6ee353ddd1d"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/history-of-nsw-government-schools/facts-and-figures/parent-organisations",
+          "uuid": "ea03314c8ebc8018303f4b7a4bd07c821b426fc7"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/history-of-nsw-government-schools/facts-and-figures/attendance",
+          "uuid": "5b9bdfc8b17645ab8e98d11f39307bb2a64bd5bf"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/history-of-nsw-government-schools/facts-and-figures",
+          "uuid": "1a98b8bd4505f62dd784db9aa5890d182f416f41"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/history-of-nsw-government-schools/photo-gallery",
+          "uuid": "4cc7ad560b1b28366f6209d5d16767435f6274ba"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/history-of-nsw-government-schools/government-schools",
+          "uuid": "23d1deb6ccf8e976dffaa4673c9990fc5024c88f"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/history-of-nsw-government-schools/facts-and-figures/schools-enrolment-and-retention-rates",
+          "uuid": "9fe1cf191d9fb85330c2a4397394ae2720d5becc"
+        }
+      ]
+    },
+    {
+      "name": "'Content Hub'",
+      "cluster": 8,
+      "pages": [
+        {
+          "url": "https://education.nsw.gov.au/about-us/technology/login-help-for-doe-staff/manage-your-extranet-password-and-secret-questions",
+          "uuid": "e1157928293e032646ec26b1adda99af8897fc7f"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/technology/login-help-for-doe-staff/change-your-password",
+          "uuid": "159d4766b900912068cc15e81770d3a1924710f8"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/technology/login-help-for-doe-staff/reset-your-password-via-personal-email",
+          "uuid": "778447c61f9495119d1d0d24e3e744422f73db93"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/technology/login-help-for-doe-staff/reset-your-password-with-mobile-phone",
+          "uuid": "1315c87c0b944e375517c153a2efe14285e50adb"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/technology/login-help-for-doe-staff/reset-your-password-with-secret-questions-and-answers",
+          "uuid": "27f350c10f1075f7cf03934a7b17cd783dff1330"
+        }
+      ]
+    },
+    {
+      "name": "Form Page Template",
+      "cluster": 9,
+      "pages": [
+        {
+          "url": "https://education.nsw.gov.au/about-us/how-we-communicate/accessibility-basics/creating-accessible-videos",
+          "uuid": "8d49fe3af85401776b3f1795d720b0e69eb6b0f7"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/how-we-communicate/accessibility-basics/accessibility-guidelines",
+          "uuid": "b6db0140f22cd2241b67aa44944fb782a6d32eaf"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/how-we-communicate/accessibility-basics/accessible-design",
+          "uuid": "087d1f5ab3c2732d1b57e735b2c1397fe702b447"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/how-we-communicate/accessibility-basics/checklist-for-accessible-content",
+          "uuid": "4e108dca3f2576dfc883c4af720dd481d5f70d85"
+        }
+      ]
+    },
+    {
+      "name": "'Content Listing Page'",
+      "cluster": 10,
+      "pages": [
+        {
+          "url": "https://education.nsw.gov.au/about-us/our-facilities/community-use/outside-schools-hours-care",
+          "uuid": "068efbedb5b5f169534156d3134768b7a48fefa3"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/our-facilities/community-use/advertising",
+          "uuid": "7bf7be076fe36e91822f11ed7c30027fc220473c"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/our-facilities/community-use/markets",
+          "uuid": "b285677a4dd6591de4ee88c827d610c401b7a29f"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/our-facilities/community-use/uniform-shops",
+          "uuid": "f8ba0d57ddddb45d5773f97ad93d8622aab4e1ed"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/our-facilities/community-use/p-c-association",
+          "uuid": "f440d67d621e0c97525ff65f320e1d9265aa8128"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/our-facilities/community-use/share-our-space-program",
+          "uuid": "c5674e52d301d05bb2be86747c6406940440d4e3"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/our-facilities/community-use/externally-funded-service-providers",
+          "uuid": "db9a0855bb5e629737b1185f92aaf660415c065a"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/our-facilities/community-use/community-languages-schools",
+          "uuid": "e3e3b170f9c1e7f96f4515a2344ca6fff1fd51af"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/our-facilities/community-use/canteens",
+          "uuid": "66305d5f7ef1b438d758162a9fea5978a3584b2e"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/our-facilities/community-use/other-use",
+          "uuid": "2fde5517e2e69b478e8e8dc8610ec5e9101bef68"
+        },
+        {
+          "url": "https://education.nsw.gov.au/about-us/our-facilities/community-use/mobile-telecommunications-facilities",
+          "uuid": "c4013be8dbc35fd3dd70d91c9d721273fdfac7b3"
+        }
+      ]
+    }
+  ]
+}
