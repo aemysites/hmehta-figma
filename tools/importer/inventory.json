@@ -4628,7 +4628,8 @@
           "uuid": "febeb01a-04-c1d8695edf92ada77fa574ad31a5d1521290f80d",
           "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[6]"
         }
-      ]
+      ],
+      "key": "unknown5"
     },
     {
       "name": "Accordion",
@@ -4718,7 +4719,8 @@
           "uuid": "e1157928-05-494bdb6e4bda012740ec09a76b6818e9245fcfc0",
           "xpath": "/html[1]/body[1]/div[2]/div[1]/div[2]"
         }
-      ]
+      ],
+      "key": "unknown8"
     },
     {
       "name": "Cards (no images)",
@@ -6916,7 +6918,8 @@
           "uuid": "1a98b8bd-05-494bdb6e4bda012740ec09a76b6818e9245fcfc0",
           "xpath": "/html[1]/body[1]/div[2]/div[1]/div[2]"
         }
-      ]
+      ],
+      "key": "unknown17"
     },
     {
       "name": "unknown",
@@ -6940,7 +6943,8 @@
           "uuid": "778447c6-05-494bdb6e4bda012740ec09a76b6818e9245fcfc0",
           "xpath": "/html[1]/body[1]/div[2]/div[1]/div[2]"
         }
-      ]
+      ],
+      "key": "unknown18"
     },
     {
       "name": "Columns",
@@ -7027,7 +7031,8 @@
           "uuid": "52e49ef4-05-494bdb6e4bda012740ec09a76b6818e9245fcfc0",
           "xpath": "/html[1]/body[1]/div[2]/div[1]/div[2]"
         }
-      ]
+      ],
+      "key": "unknown24"
     },
     {
       "name": "Columns",
@@ -7130,7 +7135,8 @@
           "uuid": "aaaec406-19-fd66fe71521d247dead82c3523ae3e1bd9399e92",
           "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/div[9]/div[1]/div[7]"
         }
-      ]
+      ],
+      "key": "unknown31"
     },
     {
       "name": "Cards",
