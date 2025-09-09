@@ -37,4 +37,16 @@ export const customElements = [];
 /**
  * Custom transformers
  */
-export const customTransformers = {};
+export const customTransformers = {
+  cleanup: (document) => {
+    // remove divs with breadcrumb, megamenu, and global-header classes
+    ['.breadcrumb', '.megamenu', '.global-header', '.side-nav', '.section-footer'].forEach((selector) => {
+      document.querySelectorAll(selector).forEach((el) => el.remove());
+    });
+
+    // change flex direction to column for divs with class "row"
+    document.querySelectorAll('.row').forEach((rowEl) => {
+      rowEl.style.flexDirection = 'column';
+    });
+  },
+};
